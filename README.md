@@ -3,7 +3,7 @@ Move.it
 </h1>
 
 <p align="center">Move.it is a health and self care app where you apply pomodoro method and complete health challenges</p>
-<p align="center">Deployed<a href="">here</a>.</p>
+<p align="center">Deployed <a href="">here</a>.</p>
 
 <p align="center">
   <a href="https://github.com/Felipe1496/move.it/graphs/contributors">
